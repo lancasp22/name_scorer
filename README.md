@@ -1,6 +1,6 @@
 # NameScorer
 
-**TODO: Add description**
+Elixir simple word similarity check - version 1
 
 ## Installation
 
